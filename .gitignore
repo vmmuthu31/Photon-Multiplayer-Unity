@@ -1,0 +1,9 @@
+Assets/*
+
+!Assets/Game/
+
+Assets/Game/*
+
+!Assets/Game/Scripts/
+
+Library
